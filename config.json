@@ -1,0 +1,22 @@
+{
+  "frontend": {
+    "scoreEnabled": true,
+    "spellsEnabled": true,
+    "coachesEnabled": true,
+    "blueTeam": {
+      "name": "STUF",
+      "score": 0,
+      "coach": "BOSSIT",
+      "color": "rgb(0,151,196)"
+    },
+    "redTeam": {
+      "name": "SBTC",
+      "score": 0,
+      "coach": "BA GA",
+      "color": "rgb(222,40,70)"
+    },
+    "patch": "9.19"
+  },
+  "contentPatch": "latest",
+  "contentCdn": "https://ddragon.leagueoflegends.com/cdn"
+}
