@@ -1,14 +1,14 @@
 import banImg from "./assets/ban_placeholder.svg";
-import topSplashR from "./assets/img/Fl/Top.png";
-import jungSplashR from "./assets/img/Fl/Jg.png";
-import midSplashR from "./assets/img/Fl/Mid.png";
-import botSplashR from "./assets/img/Fl/Ad.png";
-import supSplashR from "./assets/img/Fl/Sp.png";
-import topSplash from "./assets/img/Top.png";
-import jungSplash from "./assets/img/Jg.png";
-import midSplash from "./assets/img/Mid.png";
-import botSplash from "./assets/img/Ad.png";
-import supSplash from "./assets/img/Sp.png";
+import topSplashR from "./assets/img/TeamRed/Top.png";
+import jungSplashR from "./assets/img/TeamRed/Jg.png";
+import midSplashR from "./assets/img/TeamRed/Mid.png";
+import botSplashR from "./assets/img/TeamRed/Ad.png";
+import supSplashR from "./assets/img/TeamRed/Sp.png";
+import topSplash from "./assets/img/TeamBlue/Top.png";
+import jungSplash from "./assets/img/TeamBlue/Jg.png";
+import midSplash from "./assets/img/TeamBlue/Mid.png";
+import botSplash from "./assets/img/TeamBlue/Ad.png";
+import supSplash from "./assets/img/TeamBlue/Sp.png";
 
 const pickSplashes = [topSplash, jungSplash, midSplash, botSplash, supSplash];
 const pickSplashesR = [

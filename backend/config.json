@@ -4,18 +4,18 @@
     "spellsEnabled": false,
     "coachesEnabled": false,
     "blueTeam": {
-      "name": "T1",
-      "score": 0,
+      "name": "BLUEBUFF",
+      "score": 1,
       "coach": "Coach Blue",
       "color": "rgb(208, 243, 51)"
     },
     "redTeam": {
-      "name": "TSM",
-      "score": 0,
+      "name": "REDBUFF",
+      "score": 1,
       "coach": "Coach Red",
       "color": "rgb(208, 243, 51)"
     },
-    "patch": "9.19"
+    "patch": "12.23"
   },
   "contentPatch": "latest",
   "contentCdn": "https://ddragon.leagueoflegends.com/cdn"
