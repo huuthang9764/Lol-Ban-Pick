@@ -73,3 +73,9 @@
     }
   }
 }
+.LineTop{
+  width: var(--box-with);
+  height: 50px;
+  position: absolute;
+  overflow: hidden;
+}

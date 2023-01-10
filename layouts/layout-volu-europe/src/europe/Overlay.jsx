@@ -109,12 +109,12 @@ export default class Overlay extends React.Component {
         }}
       >
         {Object.keys(state).length === 0 && (
-          <div className={cx(css.infoBox)}>Khong co gi dau ma nhin</div>
+          <div className={cx(css.infoBox)}></div>
         )}
         {Object.keys(state).length !== 0 && (
           <div className={cx(css.ChampSelect)}>
             {!state.leagueConnected && (
-              <div className={cx(css.infoBox)}>Khong co gi dau ma nhin!</div>
+              <div className={cx(css.infoBox)}></div>
             )}
             <div className={cx(css.MiddleBox)}>
               <div className={cx(css.Logo)}>
